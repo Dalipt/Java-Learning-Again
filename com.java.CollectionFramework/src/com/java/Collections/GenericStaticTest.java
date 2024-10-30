@@ -8,6 +8,7 @@ class Mamaml
 
 class Mama extends Mamaml
 {	
+	
 }
 public class GenericStaticTest {
 
